@@ -20,7 +20,7 @@ int dividir(int a, int b) { //declarar funcion de multiplicacion
   int main (){
 
     int a,b;
-    cout<<"Please enter the first number"<<endl;
+    cout << "Please enter the first number" << endl;
     cin>> a;
     cout<< "Please enter the second number"<<endl;
     cin>> b;
